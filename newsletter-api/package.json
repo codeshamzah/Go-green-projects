@@ -5,7 +5,7 @@
     "author": "salahuddin",
     "license": "ISC",
     "dependencies": {
-        "@google-cloud/firestore": "4.12.0",
+        "@google-cloud/firestore": "6.2.0",
         "cors": "^2.8.5"
     }
 }
